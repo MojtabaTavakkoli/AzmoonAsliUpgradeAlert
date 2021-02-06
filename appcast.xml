@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.15.0</title>
-            <description>desc</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://cafebazaar.ir/app/ir.divar" sparkle:version="\nویژگی های جدید: \n - سوالات جدید \n - تغییرات ظاهری \n - حالت شب \n رفع مشکلات جزئی" sparkle:os="android" />
+            <title>ورژن جدید رسید!</title>
+            <description>\nویژگی های جدید: \n - سوالات جدید \n - تغییرات ظاهری \n - حالت شب \n رفع مشکلات جزئی</description>
+            <pubDate>Sun, 30 Dec 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://cafebazaar.ir/app/ir.divar" sparkle:version="19.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
